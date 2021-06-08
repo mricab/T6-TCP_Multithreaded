@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{402A8213-A38B-49BF-941C-FE6BDF97F6DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="server/ClientHandler/ClientHandler.cs">
+    <Files>
+      <File FileName="server/Program.cs" Line="15" Column="16" />
+      <File FileName="server/Server/Server.cs" Line="37" Column="14" />
+      <File FileName="server/ClientListener/ClientListener.cs" Line="74" Column="10" />
+      <File FileName="server/ClientHandler/ClientHandler.cs" Line="123" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Server" expanded="True">
+            <Node name="server" expanded="True">
+              <Node name="ClientHandler" expanded="True">
+                <Node name="ClientHandler.cs" selected="True" />
+              </Node>
+              <Node name="Server" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
